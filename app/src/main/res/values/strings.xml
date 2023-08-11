@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iDIce</string>
+    <string name="roll_once">Roll Once</string>
+    <string name="roll_twice">Roll Twice</string>
+    <string name="diceValue">Tap to roll</string>
+    <string name="result">First roll: --, Second Roll: --</string>
+
+</resources>
